@@ -13,4 +13,12 @@ Java components - Defedencies
 * For help : user our installation guide - https://github.com/in28minutes/SpringIn28Minutes/blob/master/InstallationGuide-JavaEclipseAndMaven_v2.pdf
 
 
+## Steps:
+### 1.1 Step 1
+Update pom file for Maven project
+Reference: 
+
+### 1.2 Step 2
+
+
 ## Basic 
