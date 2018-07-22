@@ -14,7 +14,9 @@ Java components - Defedencies
 
 
 ## Steps:
+
 ### 1.1 Step 1
+Up and running with a web app in Tomcat
 Update pom file for Maven project
 Reference: 
 https://github.com/josdoaitran/Java-Web-Application/blob/master/Step01.md
