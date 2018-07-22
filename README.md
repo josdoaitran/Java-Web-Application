@@ -17,6 +17,7 @@ Java components - Defedencies
 ### 1.1 Step 1
 Update pom file for Maven project
 Reference: 
+https://github.com/josdoaitran/Java-Web-Application/blob/master/Step01.md
 
 ### 1.2 Step 2
 
